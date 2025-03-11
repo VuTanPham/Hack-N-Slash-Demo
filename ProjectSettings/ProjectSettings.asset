@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 4339707f82321ec48b2a51c1922fe528
+  productGUID: 00000000000000000000000000000000
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -915,7 +915,7 @@ PlayerSettings:
   cloudProjectId: ce319430-eec8-4c23-aa6d-5302f6bfcc8a
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Hack N Slack Demo
+  projectName: 
   organizationId: vutanpham2001
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
